@@ -1,0 +1,11 @@
+{
+  "name" : "afwl - Auto Follow Watched List",
+  "version" : "1.0",
+  "description" : "Follow what you watch automatically",
+  "permissions": [ "contentSettings", "tabs", "activeTab", "<all_urls>" ],
+  "browser_action": {
+     "default_icon": "afwl.png",
+     "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
