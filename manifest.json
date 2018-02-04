@@ -1,5 +1,5 @@
 {
-  "name" : "afwl - Auto Follow Watched List",
+  "name" : "afwv - autoFollowerWatchedVideos",
   "version" : "1.0",
   "description" : "Follow what you watch automatically",
   "permissions": [ "contentSettings", "tabs", "activeTab", "<all_urls>" ],
